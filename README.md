@@ -1,1 +1,1 @@
-# FrightManage
+# 基于linux c的航班管理系统 小练习
