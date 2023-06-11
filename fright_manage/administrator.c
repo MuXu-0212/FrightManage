@@ -352,6 +352,7 @@ int admi_revise(p_user h)
 
 }
 
+
 //管理员模块
 int administrator(p_user h)
 {
